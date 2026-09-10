@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 48644453,
       "digest": "sha256:a360f1e37fce442ee7aa0d0e0a2f86cc239d9f431861c7f5469ccdc78ffe5fc7",
-      "download_count": 66,
+      "download_count": 67,
       "created_at": "2026-09-06T00:35:58Z",
       "updated_at": "2026-09-06T00:35:59Z",
       "browser_download_url": "https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 49064724,
       "digest": "sha256:2fc36a8799450d28fe0c91194c1bc690d487051eae4b81b239b741a7a9a4b7da",
-      "download_count": 356,
+      "download_count": 372,
       "created_at": "2026-09-06T00:36:18Z",
       "updated_at": "2026-09-06T00:36:20Z",
       "browser_download_url": "https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 46785375,
       "digest": "sha256:c012c91e2e6b130c8352522631b1597f156547a1dc961f5ce121839cf003f4b7",
-      "download_count": 87,
+      "download_count": 92,
       "created_at": "2026-09-06T00:36:06Z",
       "updated_at": "2026-09-06T00:36:08Z",
       "browser_download_url": "https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-mac.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 47070928,
       "digest": "sha256:34f3eac66899c5d715bcd82248c6ceb063fa60c523931f15c4aa1e03e909cafa",
-      "download_count": 295,
+      "download_count": 307,
       "created_at": "2026-09-06T00:37:28Z",
       "updated_at": "2026-09-06T00:37:30Z",
       "browser_download_url": "https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-win.zip"
