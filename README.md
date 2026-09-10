@@ -12,43 +12,7 @@ A CLI interface for Marp and Marpit based converters
 x install marp-cli
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/marp-team/marp-cli>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v4.5.1` (2026-09-06)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [marp-cli-v4.5.1-linux-arm64.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux-arm64.tar.gz) | 46.4 MiB | `native/linux/arm64` |
-| [marp-cli-v4.5.1-linux.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux.tar.gz) | 46.8 MiB | `native/unknown` |
-| [marp-cli-v4.5.1-mac.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-mac.tar.gz) | 44.6 MiB | `native/unknown` |
-| [marp-cli-v4.5.1-win.zip](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-win.zip) | 44.9 MiB | `other` |
-
-## Popularity
-
-- **Stars**: 3,811 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
-
-## Totals (cumulative)
-
-- **Releases**: 131 · **Merged PRs**: 432 · **Open PRs**: 1 · **Closed issues**: 244 · **Open issues**: 17 · **Commits**: 2535
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 3 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-12 | 3 | 11 | 0 | 2 | 0 | 42 |
-| 360d | 2025-09-15 | 6 | 24 | 0 | 21 | 2 | 95 |
-
-## Code size
+## Code insight
 
 Total: **38,161** lines of code across **199** files in the top 5 languages.
 
@@ -70,6 +34,54 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/marp-team/marp-cli>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v4.5.1` (2026-09-06)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 4
+
+## Popularity
+
+- **Stars**: 3,811 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
+
+## Totals (cumulative)
+
+- **Releases**: 131 · **Merged PRs**: 432 · **Open PRs**: 1 · **Closed issues**: 244 · **Open issues**: 17 · **Commits**: 2535
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 3 | 0 | 0 | 0 | 14 |
+| last60d | 2026-07-12 | 2 | 6 | 0 | 1 | 0 | 25 |
+| 90d | 2026-06-12 | 3 | 11 | 0 | 2 | 0 | 42 |
+| last180d | 2026-03-14 | 6 | 15 | 0 | 10 | 1 | 51 |
+| 360d | 2025-09-15 | 6 | 24 | 0 | 21 | 2 | 95 |
+| last720d | 2024-09-20 | 18 | 76 | 1 | 52 | 6 | 455 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [marp-cli-v4.5.1-linux-arm64.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux-arm64.tar.gz) | 46.4 MiB | `native/linux/arm64` |
+| [marp-cli-v4.5.1-linux.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux.tar.gz) | 46.8 MiB | `native/unknown` |
+| [marp-cli-v4.5.1-mac.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-mac.tar.gz) | 44.6 MiB | `native/unknown` |
+| [marp-cli-v4.5.1-win.zip](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-win.zip) | 44.9 MiB | `other` |
+
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/marp-cli). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.5.1` | ✅ latest |
+| Nix unstable | `4.5.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `marp-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -79,4 +91,4 @@ Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:46:32Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:54:29Z._
