@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 49064724,
       "digest": "sha256:2fc36a8799450d28fe0c91194c1bc690d487051eae4b81b239b741a7a9a4b7da",
-      "download_count": 453,
+      "download_count": 456,
       "created_at": "2026-09-06T00:36:18Z",
       "updated_at": "2026-09-06T00:36:20Z",
       "browser_download_url": "https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux.tar.gz"
