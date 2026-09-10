@@ -22,11 +22,19 @@ x install marp-cli
 - **Latest**: `v4.5.1` (2026-09-06)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 4
-- **Published**: 2026-09-06T00:33:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [marp-cli-v4.5.1-linux-arm64.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux-arm64.tar.gz) | 46.4 MiB | `native/linux/arm64` |
+| [marp-cli-v4.5.1-linux.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-linux.tar.gz) | 46.8 MiB | `native/unknown` |
+| [marp-cli-v4.5.1-mac.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-mac.tar.gz) | 44.6 MiB | `native/unknown` |
+| [marp-cli-v4.5.1-win.zip](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-win.zip) | 44.9 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 3,812 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
+- **Stars**: 3,811 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -67,8 +75,8 @@ Lowest-scoring checks:
 Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `marp-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/marp-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/marp-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:02:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:46:32Z._
