@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,822 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
+- **Stars**: 3,825 · **Forks**: 194 · **Open issues**: 261 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 3 | 0 | 0 | 0 | 14 |
-| last60d | 2026-07-19 | 1 | 4 | 0 | 1 | 0 | 14 |
-| 90d | 2026-06-19 | 3 | 11 | 0 | 1 | 0 | 42 |
-| last180d | 2026-03-21 | 4 | 14 | 0 | 8 | 1 | 49 |
-| 360d | 2025-09-22 | 6 | 22 | 0 | 21 | 2 | 90 |
-| last720d | 2024-09-27 | 18 | 71 | 1 | 50 | 6 | 414 |
+| 30d | 2026-08-19 | 1 | 3 | 0 | 0 | 0 | 14 |
+| last60d | 2026-07-20 | 1 | 4 | 0 | 1 | 0 | 14 |
+| 90d | 2026-06-20 | 3 | 11 | 0 | 1 | 0 | 42 |
+| last180d | 2026-03-22 | 4 | 14 | 0 | 8 | 1 | 49 |
+| 360d | 2025-09-23 | 6 | 22 | 0 | 21 | 2 | 90 |
+| last720d | 2024-09-28 | 18 | 69 | 1 | 50 | 6 | 397 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:21:37Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:06:47Z._
