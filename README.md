@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 3 | 0 | 0 | 0 | 14 |
-| last60d | 2026-07-22 | 1 | 3 | 0 | 1 | 0 | 14 |
-| 90d | 2026-06-22 | 3 | 11 | 0 | 1 | 0 | 42 |
-| last180d | 2026-03-24 | 4 | 13 | 0 | 8 | 1 | 49 |
-| 360d | 2025-09-25 | 6 | 21 | 0 | 21 | 2 | 90 |
-| last720d | 2024-09-30 | 18 | 69 | 1 | 50 | 6 | 384 |
+| 30d | 2026-08-22 | 1 | 3 | 0 | 0 | 0 | 14 |
+| last60d | 2026-07-23 | 1 | 3 | 0 | 1 | 0 | 14 |
+| 90d | 2026-06-23 | 3 | 11 | 0 | 1 | 0 | 42 |
+| last180d | 2026-03-25 | 4 | 13 | 0 | 8 | 1 | 47 |
+| 360d | 2025-09-26 | 6 | 21 | 0 | 21 | 2 | 90 |
+| last720d | 2024-10-01 | 18 | 69 | 1 | 50 | 6 | 384 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:38Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:26:27Z._
