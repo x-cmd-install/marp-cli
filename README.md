@@ -30,8 +30,8 @@ Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,889 · **Forks**: 201 · **Open issues**: 263 · **Contributors**: 25
+- **Stars**: 3,891 · **Forks**: 201 · **Open issues**: 264 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 131 · **Merged PRs**: 432 · **Open PRs**: 2 · **Closed issues**: 245 · **Open issues**: 18 · **Commits**: 2535
+- **Releases**: 131 · **Merged PRs**: 432 · **Open PRs**: 2 · **Closed issues**: 245 · **Open issues**: 19 · **Commits**: 2535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-08-27 | 1 | 3 | 1 | 1 | 1 | 14 |
-| 90d | 2026-07-28 | 1 | 3 | 1 | 2 | 1 | 14 |
-| last180d | 2026-04-29 | 4 | 12 | 1 | 7 | 2 | 44 |
-| 360d | 2025-10-31 | 6 | 21 | 1 | 16 | 3 | 89 |
-| last720d | 2024-11-05 | 15 | 60 | 2 | 47 | 7 | 326 |
+| 30d | 2026-09-27 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last60d | 2026-08-28 | 1 | 3 | 1 | 1 | 2 | 14 |
+| 90d | 2026-07-29 | 1 | 3 | 1 | 2 | 2 | 14 |
+| last180d | 2026-04-30 | 4 | 12 | 1 | 7 | 3 | 44 |
+| 360d | 2025-11-01 | 6 | 21 | 1 | 16 | 4 | 89 |
+| last720d | 2024-11-06 | 15 | 59 | 2 | 46 | 8 | 326 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for marp-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:57:51Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:26:57Z._
