@@ -47,7 +47,7 @@ x install marp-cli
 
 ## 流行度
 
-- **Star**: 3,948 · **Fork**: 208 · **开放 issue**: 264 · **贡献者**: 25
+- **Star**: 3,951 · **Fork**: 207 · **开放 issue**: 264 · **贡献者**: 25
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install marp-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 2 | 1 | 0 |
-| 90d | 2026-08-26 | 1 | 3 | 2 | 2 | 1 | 14 |
-| last180d | 2026-05-28 | 3 | 11 | 2 | 5 | 1 | 42 |
-| 360d | 2025-11-29 | 6 | 21 | 2 | 16 | 3 | 89 |
-| last720d | 2024-12-04 | 14 | 56 | 3 | 45 | 6 | 310 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 2 | 1 | 0 |
+| 90d | 2026-08-27 | 1 | 3 | 2 | 2 | 1 | 14 |
+| last180d | 2026-05-29 | 3 | 11 | 2 | 5 | 1 | 42 |
+| 360d | 2025-11-30 | 6 | 21 | 2 | 16 | 3 | 89 |
+| last720d | 2024-12-05 | 14 | 56 | 3 | 45 | 6 | 310 |
 
 ## Release 资产
 
@@ -73,15 +73,6 @@ x install marp-cli
 | [marp-cli-v4.5.1-mac.tar.gz](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-mac.tar.gz) | 44.6 MiB | `native/unknown` |
 | [marp-cli-v4.5.1-win.zip](https://github.com/marp-team/marp-cli/releases/download/v4.5.1/marp-cli-v4.5.1-win.zip) | 44.9 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/marp-cli) 上共有 **14** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `4.5.1` | ✅ latest |
-| Nix unstable | `4.5.1` | ✅ latest |
-
 ## 改进这些数据
 
 marp-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `marp-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -91,4 +82,4 @@ marp-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:43:58Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:46:04Z._
